@@ -1,7 +1,8 @@
-streamlit
-joblib
-scikit-learn
-pandas
-numpy
 flask
 flask-cors
+requests
+numpy
+joblib
+scikit-learn
+tensorflow-cpu
+gunicorn
